@@ -1,9 +1,9 @@
 # Tweet_App_OpenAi_Key
 
 
-#Install Node_Modules
+#Install Node_Modules:
 npm i
 
 
-#run the server
+#run the server:
 npm run dev
