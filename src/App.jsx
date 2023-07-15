@@ -2,7 +2,7 @@ import { useState } from 'react'
 import './App.css'
 
 
-const API_KEY = "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";
+const API_KEY = "your api key";
 
 
 
